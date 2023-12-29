@@ -1,7 +1,8 @@
-
-#Flutter Movies App
+# Flutter Movies App
 
 The UI side of this Project was developed with Flutter.
+
+
 
 ![Home Page](https://r.resimlink.com/fwO6HLlq.png)
 
@@ -10,5 +11,3 @@ The UI side of this Project was developed with Flutter.
 
 
 ![Categories](https://r.resimlink.com/VYA21zsp.png)
-
-  
